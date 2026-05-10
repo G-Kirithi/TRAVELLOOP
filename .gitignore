@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules/
 build/
 dist/
@@ -6,3 +7,16 @@ coverage/
 *.log
 .env*
 !.env.example
+=======
+.dart_tool/
+.packages
+.pub/
+build/
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/.symlinks/
+.idea/
+*.iml
+*.log
+>>>>>>> 417c995e64aa85c917ef04da90c6ffd44e35af13
